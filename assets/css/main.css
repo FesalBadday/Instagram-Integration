@@ -1,0 +1,35 @@
+body {
+  background-color: #291b31;
+  color: #aca9ad;
+  font-family: 'Aclonica', sans-serif;
+  text-shadow: 1px 1px 1px #8a2be2;
+}
+
+h1 {
+  font-size: clamp(3rem, 3.5vw, 4rem);
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 6rem 0 1rem;
+}
+
+figure img {
+  width: clamp(25rem, 26vw, 30rem);
+  border-radius: 1rem;
+  box-shadow: 0 0 16px #000000;
+}
+
+figure img:hover {
+  transform: scale(1.025);
+  box-shadow: 0 0 16px #8a2be2;
+}
+
+figcaption {
+  margin: 1rem 0 1rem;
+  text-align: left;
+}
