@@ -7,7 +7,7 @@ const showRoom = async () => {
     document.querySelector('.container').innerHTML += `
       <figure>
         <img src="${post.url}" alt="test">
-        <figcaption>${post.caption}</figcaption>
+        <figcaption>${post.caption.substring(9)}</figcaption>
       </figure>`;
   });
 }
