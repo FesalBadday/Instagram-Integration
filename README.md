@@ -24,8 +24,9 @@
 1. Sign in to your Instagram account.
 2. Follow this [instruction](https://help.instagram.com/442418472487929) on "How do I post a photo on Instagram".
 3. Make sure to include the hashtag (#showroom) at the beginning of the caption when you are creating a new or editing a post.
-  > Example 1: #showroom I love cars | Will be displayed to the page
-  > Example 2: I love cars #showroom | Will not be displayed to the page
+  > Example: 
+    1. #showroom I love cars | Will be displayed on the page.
+    2. I love cars #showroom | Will not be displayed on the page.
 4. Go back to your [website](https://cpnt270-a3.netlify.app) and refresh the page.
 5. Success, your gallery page is updated now.
 6. Done!.
