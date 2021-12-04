@@ -26,28 +26,28 @@
 3. Make sure to include the hashtag (#showroom) at the beginning of the caption when you are creating a new or editing a post.
 4. Go back to your [website](https://cpnt270-a3.netlify.app) and refresh the page.
 5. Success, your gallery page is updated now.
-6. Done!
+6. Done!.
 
 
 ## API Documentation
 - I used [Instagram Basic Display API](https://developers.facebook.com/docs/instagram-basic-display-api) to access my Instagram account.
 - Followed this [tutorial](https://developers.facebook.com/docs/instagram-basic-display-api/getting-started) on how to configure my app.
 - Guide to use Netlify serverless functions [Using the Instagram API + Serverless Netlify to display your own Photos in 2021](https://sait-wbdv.github.io/fall-2021/courses/dsgn270/day07/).
-- Instagram Token [How to Get Instagram Access Token](https://docs.oceanwp.org/article/487-how-to-get-instagram-access-token)
-- Token hider/Securing my API [Build environment variables](https://docs.netlify.com/configure-builds/environment-variables/)
+- Instagram Token [How to Get Instagram Access Token](https://docs.oceanwp.org/article/487-how-to-get-instagram-access-token).
+- Token hider/Securing my API [Build environment variables](https://docs.netlify.com/configure-builds/environment-variables/).
 
 ---
 
 ## Attributions
-- [Tony Grimes](https://github.com/acidtone) How to use [Netlify Functions](https://github.com/acidtone/hello-netlify-functions)
-- Image of [Shiny Yellow Audi Car in Showroom](https://www.pexels.com/photo/shiny-yellow-audi-car-in-showroom-1149831) By [Sourav Mishra](https://www.pexels.com/@photosbymishra) From [Pexels](https://www.pexels.com). [License](https://www.pexels.com/license)
-- Image of [Blue Old Classic Sedan](https://www.pexels.com/photo/blue-sedan-712618) By [neil kelly](https://www.pexels.com/@peely) From [Pexels](https://www.pexels.com). [License](https://www.pexels.com/license)
-- Image of [Black-White Truck](https://www.pexels.com/photo/single-cab-pickup-truck-797570) By [Tina Nord](https://www.pexels.com/@nord6) From [Pexels](https://www.pexels.com). [License](https://www.pexels.com/license)
-- [Aclonica](https://fonts.google.com/specimen/Aclonica) Font By [Astigmatic](https://fonts.google.com/?query=Astigmatic) From [Google Fonts](https://fonts.google.com). [License](https://developers.google.com/fonts)
+- [Tony Grimes](https://github.com/acidtone) How to use [Netlify Functions](https://github.com/acidtone/hello-netlify-functions).
+- Image of [Shiny Yellow Audi Car in Showroom](https://www.pexels.com/photo/shiny-yellow-audi-car-in-showroom-1149831) By [Sourav Mishra](https://www.pexels.com/@photosbymishra) From [Pexels](https://www.pexels.com).. [License](https://www.pexels.com/license).
+- Image of [Blue Old Classic Sedan](https://www.pexels.com/photo/blue-sedan-712618) By [neil kelly](https://www.pexels.com/@peely) From [Pexels](https://www.pexels.com). [License](https://www.pexels.com/license).
+- Image of [Black-White Truck](https://www.pexels.com/photo/single-cab-pickup-truck-797570) By [Tina Nord](https://www.pexels.com/@nord6) From [Pexels](https://www.pexels.com). [License](https://www.pexels.com/license).
+- [Aclonica](https://fonts.google.com/specimen/Aclonica) Font By [Astigmatic](https://fonts.google.com/?query=Astigmatic) From [Google Fonts](https://fonts.google.com). [License](https://developers.google.com/fonts).
 
 
 ## Code Attributions
-- [Using the Instagram API + Serverless Netlify to display your own Photos in 2021](https://sait-wbdv.github.io/fall-2021/courses/dsgn270/day07/)
+- [Using the Instagram API + Serverless Netlify to display your own Photos in 2021](https://sait-wbdv.github.io/fall-2021/courses/dsgn270/day07/).
 
 ```js
 const axios = require('axios');
