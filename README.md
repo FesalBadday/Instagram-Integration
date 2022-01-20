@@ -4,7 +4,7 @@
 
 **Author :** Fesal Badday
 
-**Repo :** [Github Repo](https://github.com/FesalBadday/cpnt270-a3)
+**Repo :** [Github Repo](https://github.com/FesalBadday/Instagram-Integration)
 
 **Site :** [Netlify Page](https://cpnt270-a3.netlify.app)
 
