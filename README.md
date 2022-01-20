@@ -1,4 +1,4 @@
-# DSGN 270 Assignment 3 - Social Integration Proof-of-Concept
+# Social Integration Proof-of-Concept
 
 ---
 
